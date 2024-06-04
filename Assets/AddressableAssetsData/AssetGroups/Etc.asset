@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Etc
+  m_EditorClassIdentifier: 
+  m_GroupName: Etc
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b892c23ade7bee543ae093bd958fa2d7
+  m_SerializeEntries:
+  - m_GUID: 2442ce0cd8f6a534c842e7c4c8b4e935
+    m_Address: landscape
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a9aca32dd224a44a90d061f35542e80
+    m_Address: tree_trunk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9136449bef2d2c942a08e20a7809c2dc
+    m_Address: trailway
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 822f476ca3b34b743b52c359fc26200f
+    m_Address: stones
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dac8c4109475fb46b0d42c0c058e0bd
+    m_Address: flower_01_top
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 084a8e0b8bc1d5142a434c5f70dd89d8
+    m_Address: flower_center
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e1f4f8b4e5215f4890a4e42d3914941
+    m_Address: LeafAndGrass
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49587e57e69ceb049a4aa657205dacd1
+    m_Address: flower_02_top
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0acdb497b650e34cb50e02ac881625d
+    m_Address: flower_03_Albedo
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df8452c07a7a78e408a012dd3ec5bcfb
+    m_Address: cart_01_main
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2e30ea042cc66d4dae0b668b75bdae2
+    m_Address: cart_01_secondary
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b73aea3458bd7a4ab497c4b8aca7c5b
+    m_Address: house_01_logs
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9189838ce0966b449746ed7a129a7a2
+    m_Address: house_01_roof
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08fec52d580ccab4487541c9e6276f6c
+    m_Address: house_01_light_wood
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35bca24f9c1901a488a923d8e55e5756
+    m_Address: house_01_pipe
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17fa94891ad6e1a4e96185e77427f72b
+    m_Address: house_01_emission
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f586378b4e144a9851e7b34d9b748ee
+    m_Address: LiberationSans SDF
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e498d1c8094910479dc3e1b768306a4
+    m_Address: LiberationSans SDF - Fallback
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e73a58f6e2794ae7b1b7e50b7fb811b0
+    m_Address: LiberationSans SDF - Drop Shadow
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79459efec17a4d00a321bdcc27bbc385
+    m_Address: LiberationSans SDF - Outline
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6b9b44320f4448d9d5e0ee634259966
+    m_Address: Crate - Surface Shader Scene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c719e38f25a9480abd2480ab621a2949
+    m_Address: Ground - Logo Scene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aadd5a709a48466c887296bb5b1b8110
+    m_Address: Ground - Surface Shader Scene
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22262639920f43d6be32430e4e58350d
+    m_Address: Small Crate_diffuse
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21336316c1953c841ac00b019570ff43
+    m_Address: barre_01l_wood
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d901ff455a2cf4a789bbb9906e84b5ec
+    m_Address: Podium
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 538267a94aa5b00488fb25df219252fc
+    m_Address: barrel_01_metal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26c951f1ebdcbbc46a9fc064f0da613e
+    m_Address: stairs_01
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a66bff250649e421c8f8cdbfab69dc07
+    m_Address: Demo_plane
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd3e1dcd577ba6643ab93e93280e9c59
+    m_Address: fances
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2870bb9a67a3e4f06b9a33ca3fc56ae7
+    m_Address: SkyBox
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a6c928af12c1634facd0ed9c8013eb0
+    m_Address: cart_01_metal
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6b911390c5825014e8377183a7837d3f
+    m_Address: GreyBlue_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ab977a21c92388468ee65ad1c0e5a78
+    m_Address: GridOrange_01_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 979aef027a1c86c42a15ce35fce366fa
+    m_Address: Blue_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dbf898c9f9c4a2d46aa6336e23caeb61
+    m_Address: GridWhite_01_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff188f58422043f489060e28a5e4e0c0
+    m_Address: GridBlue_01_Mat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Etc
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9cdeee3d9677b9c4c976d0b023f47ab4, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6201f9151ef2bed4390cdd391992aaa8, type: 2}
+    - {fileID: 11400000, guid: 60969488f420a45428e00d4704535280, type: 2}

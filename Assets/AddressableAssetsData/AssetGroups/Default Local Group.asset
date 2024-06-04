@@ -15,12 +15,37 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: a747eb2f8e35cfe4c8d4d6e8a37ed1bd
+  m_GUID: 3fe37b4aa00dae04e9bdd492562c3e1a
   m_SerializeEntries:
-  - m_GUID: a7959357afd5c7649833dc2c78b9d640
-    m_Address: Assets/New Material.mat
+  - m_GUID: cb5f9883942ab3c4a95cb129e2a59c5a
+    m_Address: PlayerFollowCamera
     m_ReadOnly: 0
-    m_SerializedLabels: []
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dcd0b90b30f333448a6b4b8558895685
+    m_Address: PlayerCapsule
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08b1fdbf339f5bc4591a4a1c613dae69
+    m_Address: Global Volume
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a5ef3c0535617146bc7822cfec5296d
+    m_Address: Demo_Objects
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3cd67342d78a384c89268426d3b84c4
+    m_Address: Directional Light
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - default
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 9cdeee3d9677b9c4c976d0b023f47ab4, type: 2}
