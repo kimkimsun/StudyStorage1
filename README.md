@@ -3,8 +3,11 @@
 #### 본 문서는 유튜버 더블엘 DoubleL님의 영상을 참고하여 만들었습니다.
 
 ## 개발 환경
-Windows Unity C# AWS Visual Studio
-
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ## 어드레서블을 쓰는 이유
 #### 1. 에셋 빌드와 배포의 단순화 : 직접 레퍼런스, 리소스 폴더, 에셋 번들 분리가 단순화되고 편리해진다.
 #### 2. 효율적인 에셋 관리 : 종속성 파악 및 메모리 로드/언로드 현황을 볼 수 있다. (중복된 에셋으로 메모리를 낭비가 되는 것을 막는다.
