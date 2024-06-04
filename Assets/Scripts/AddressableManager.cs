@@ -5,31 +5,21 @@ using UnityEngine.AddressableAssets;
 
 public class AddressableManager : MonoBehaviour
 {
+    private bool onlyFirst = true;
+
     [SerializeField]
     private List<AssetReferenceGameObject> TestObj = new List<AssetReferenceGameObject>();
 
     List<GameObject> objList = new List<GameObject>();
-    void Start()
-    {
-        StartCoroutine(InitAddressabled());
-    }
 
-    IEnumerator InitAddressabled()
+    private void Start()
     {
-        var init = Addressables.InitializeAsync();
-        yield return init;
-    }
-    private void Update()
-    {
-        if(Input.GetKeyDown(KeyCode.G))
+        for (int i = 0; i < TestObj.Count; i++)
         {
-            for(int i = 0; i < TestObj.Count; i++)
+            TestObj[i].InstantiateAsync().Completed += (obj) =>
             {
-                TestObj[i].InstantiateAsync().Completed += (obj) =>
-                {
-                    objList.Add(obj.Result);
-                };
-            }
+                objList.Add(obj.Result);
+            };
         }
     }
 }
